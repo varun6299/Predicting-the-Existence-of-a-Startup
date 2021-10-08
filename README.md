@@ -1,5 +1,5 @@
 # Predicting-the-Existence-of-a-Startup
-A Machine Learning project to build a classification model to predict the survival or acquisition of a Startup.
+A Machine Learning task to build a classification model to predict the survival or acquisition of a Startup, completed as a Capstone group project as a part of the Great Learning / Great Lakes' PGP-DSE Program.
 
 
 ## **Business Case**
